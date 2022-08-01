@@ -1,0 +1,20 @@
+{
+  "name": "async_platzi_landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juaniMarderwald/async_platzi_landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juaniMarderwald/async_platzi_landing/issues"
+  },
+  "homepage": "https://github.com/juaniMarderwald/async_platzi_landing#readme"
+}
